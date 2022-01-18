@@ -1,0 +1,8 @@
+ emp_002          anbuchelvan    male  30   12000
+ emp_003             krithika  female  45   18000
+ emp_004             jeevitha  female  40   10000
+ emp_005            shashanth    male  45   17000
+ emp_006               harish    male  35   16000
+ emp_007           srinivasan    male  50   19000
+ emp_008              paimala  female  20   10000
+ emp_001         logaprassana    male  35   10000
